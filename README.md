@@ -13,12 +13,12 @@ The dataset used for this analysis was downloaded from [Kaggle](https://www.kagg
 
 ## Tools
 
-1. **Spreadsheets**: Used for data consolidation and cleaning.
+1. **Spreadsheet**: Used for data consolidation and cleaning.
 2. **Tableau**: Used for data analysis and visualization to present the findings.
 
 ## Data Design / Cleaning / Preparation
 
-The dataset used for the analysis covers four subject areas: Web Development, Graphic Design, Business Finance, and Musical Instruments. The goal is to identify potential revenue growth opportunities and track performance across these topics. Data from multiple sources were presented in different Excel sheets according to their subjects. I consolidated and cleaned the data in Google Sheets by removing duplicates and blank cells. The clean dataset was then analyzed in Tableau, where necessary visualizations were created to derive insights and track course performance.
+The dataset used for the analysis covers four subject areas: Web Development, Graphic Design, Business Finance, and Musical Instruments. The goal is to identify potential revenue growth opportunities and track performance across these topics. Data from multiple sources were presented in different Excel sheets according to their subjects. I consolidated and cleaned the data in Spreadsheet by removing duplicates and blank cells. The clean dataset was then analyzed in Tableau, where necessary visualizations were created to derive insights and track course performance.
 
 ## Data Visualizations and Findings
 
