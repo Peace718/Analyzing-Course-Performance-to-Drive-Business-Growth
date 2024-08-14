@@ -13,7 +13,7 @@ The dataset used for this analysis was downloaded from [Kaggle](https://www.kagg
 
 ## Tools
 
-1. **Google Sheets**: Used for data consolidation and cleaning.
+1. **Spreadsheets**: Used for data consolidation and cleaning.
 2. **Tableau**: Used for data analysis and visualization to present the findings.
 
 ## Data Design / Cleaning / Preparation
